@@ -1,0 +1,14 @@
+{
+  "name": "016passparams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "params.js",
+  "scripts": {
+    "script1": "node params.js",
+    "script2": "node params2.js",
+    "script3": "node params3.js",
+    "build": "npm run script1 && npm run script2 && npm run script3"
+  },
+  "author": "",
+  "license": "ISC"
+}

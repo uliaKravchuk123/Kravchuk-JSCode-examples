@@ -1,0 +1,12 @@
+{
+  "name": "015passingparams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "passMult.js",
+  "scripts": {
+    "start": "node passMult.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
