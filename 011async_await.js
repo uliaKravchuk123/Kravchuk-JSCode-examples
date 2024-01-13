@@ -1,5 +1,8 @@
 //async/await
 
+//Kлючевое слово async перед функцией гарантирует, что эта функция в любом случае вернёт промис
+//Ключевое слово await заставит интерпретатор JavaScript ждать до тех пор, пока промис справа от await не выполнится. После чего оно вернёт его результат, и выполнение кода продолжится.
+
 const myFirstPromise = new Promise((resolve, reject) => { 
     const condition = true;   
     if(condition) {
