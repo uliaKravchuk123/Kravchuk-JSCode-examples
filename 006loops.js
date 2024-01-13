@@ -17,7 +17,7 @@ for (let l of str) {
 }
 
 
-//for in - to iterate through the keys of an object, can use for str/arr (don't use for iterables).
+//for in - to iterate through the keys of an object, can use for str/arr (don't use for iterables). Цикл for..in выполняет перебор всех свойств объекта, а не только цифровых.
  
 let obj = {
     id: 1 , 

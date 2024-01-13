@@ -1,4 +1,5 @@
 //declaring variables; difference between var, let, const
+//https://learn.javascript.ru/javascript-specials
 
 
 // let - для объявления переменных
